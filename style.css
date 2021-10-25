@@ -1,0 +1,13 @@
+body {
+background-color: #861ac8;
+font-family: 'Montserrat', sans-serif;
+color: rgb(34, 225, 244);
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+  color: #ccff00;
+}
+a {
+  color: #f9bc5c;
+}
